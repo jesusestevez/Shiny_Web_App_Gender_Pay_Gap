@@ -1,7 +1,8 @@
 # Code for a Shiny Web Application that produces plots of the evolution of Gender Pay Gap for EU Countries
 
+The App can be seen [here](https://jesusestevez.shinyapps.io/Gender_Pay_Gap/)
 
-```{r, echo=FALSE}
+```{r, echo=TRUE, message = FALSE}
 # Libraries needed:
 
 library(shiny)
